@@ -18,6 +18,11 @@ public class Exercicio01 {
 
         Float media = (nota01+nota02+nota03)/3.0f; 
         System.out.printf("O aluno "+nome+" Tem a Média = %.2f%n",media);
+        if(media >= 6){
+            System.out.println("O aluno"+nome+" Está Aprovado");
+        }else{
+            System.out.println("O aluno"+nome+" Está Reprovado");
+        }
         scanner.close();
     }
 }
