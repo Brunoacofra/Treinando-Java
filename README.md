@@ -2,7 +2,8 @@
 Apenas um repositório onde o chatGPT cria exercícios para mim e eu faço eles, treinando minha logica de programação na linguagem Java em sua essência.
 
 
-Lista 01
+
+------------------------------------Lista 01-----------------------------------------------------
 1️⃣ Cálculo de Média Simples
 
 Objetivo: Criar um programa que leia 3 notas de um aluno e calcule a média.
@@ -48,3 +49,5 @@ Saldo inicial: R$ 1.000,00
 Opções: 1 - Sacar, 2 - Depositar, 3 - Ver saldo, 4 - Sair
 
 Extra: Não permitir saque maior que o saldo e não permitir depósito negativo.
+
+------------------------------------Lista 01-----------------------------------------------------
